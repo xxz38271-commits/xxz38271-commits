@@ -25,16 +25,16 @@
 
 ---
 
-##  주요 프로젝트
+## 🏆 주요 프로젝트
 
 | 프로젝트 | 설명 | 성과 |
 |----------|------|------|
-| [RoughNet](./RoughNet) | CNN 기반 밀링 가공면 표면거칠기 실시간 예측 시스템 | 🥇 한국정밀공학회 창의경진대회 최우수상 |
-| [ROKEY Bootcamp](./rokey-bootcamp) | ROS2 기반 협동로봇 시스템 개발 | 두산로보틱스 ROKEY 부트캠프 수료 |
+| [RoughNet](https://github.com/xxz38271-commits/RoughNet) | CNN 기반 밀링 가공면 표면거칠기 실시간 예측 시스템 | 🥇 한국정밀공학회 창의경진대회 최우수상 |
+| [ROKEY Bootcamp](https://github.com/xxz38271-commits/ROKEY-bootcamp) | ROS2 기반 협동로봇 시스템 개발 | 두산로보틱스 ROKEY 부트캠프 수료 |
 
 ---
 
-##  경력 및 활동
+## 📌 경력 및 활동
 
 - 숭실대학교 기계공학부 (2019 ~ 2025)
 - 두산로보틱스 ROKEY 부트캠프 수료
@@ -44,6 +44,6 @@
 
 ---
 
-##  연락처
+## 📫 연락처
 
 [![Email](https://img.shields.io/badge/Email-xxz1101@naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xxz1101@naver.com)
